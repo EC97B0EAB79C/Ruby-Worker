@@ -1,0 +1,11 @@
+sqs_url:
+  hw1: https://sqs.ap-northeast-2.amazonaws.com/111111111111/exmaple1.fifo
+  hw2: https://sqs.ap-northeast-2.amazonaws.com/111111111111/exmaple2.fifo
+
+bucket:
+  data: data-bucket
+  job: job-bucket
+
+components:
+  test1: hw1
+  test2: hw2
